@@ -41,6 +41,10 @@ The scoreboard keeps track of the scores for both the player and the bot. The ga
 
 - **Python**: Game logic can be found in the respective Python file.
 
+## Future Implementations
+
+- **Stylish Front-End Interface**: The CSS file for the web version is currently empty. I intend to enhance the game with a stylish and interactive front-end interface. Anyone looking to contribute in this area is warmly welcomed and much appreciated!
+
 ## What I Learned
 
 - **Web Development**: Through building the web implementation, I honed my skills in HTML, CSS, and JavaScript. I learned how to integrate them seamlessly to create an interactive web game.
